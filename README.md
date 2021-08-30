@@ -2,7 +2,7 @@
 
 
 **1) Fraud Detection:** 
-      This project tries to identify if the transaction was a fraud on the Credit Card dataset. 
+      This project tries to identify if the transaction was a fraud on the Credit Card dataset.
       Since there were 27 fields and types of transacton, we tried to extract the top 10 significant fields and performed SVM model to classify the fraudulent activity. Top 10 fields are determined by sorting the correlation coefficients of all fields w.r.t to final activity. 
       The model built was able to correctly identify frauds with an Accuracy of approx 93%
 
